@@ -68,4 +68,4 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 | List exists                                   | 1      |
 | List is ‘bulleted’                            | 1      |
 | Successfully committed homework               | 2      |
-| Total                                         | 10     |
+| Total                                         | 100     |
